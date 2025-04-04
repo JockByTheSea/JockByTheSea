@@ -7,9 +7,9 @@ Tech leader and Systems architect
 I'm a seasoned technical leader with 16+ years of experience architecting and delivering solutions across multiple domains and technologies. My journey spans building developer platforms, IoT solutions, and driving digital transformation for enterprises and startups alike.
 
 * 🌍  I'm based in Scotland
-* 🧠  I'm learning Rust, ESP32 & ML
+* 🧠  I'm learning Rust, ML & Golang
 * 🤝  I'm open to collaborating on anything that makes the world a better place!
-* ⚡  I play the drums, guitar, bass and compose orchestral and electronic music. Early days but I'm trying to get better at it!
+* ⚡  I play the drums, guitar, bass and compose orchestral and electronic music.
 
 ### Skills
 
